@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScriptureLookup")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34d9a4f3f0bc703c0a88cedf197cb5a9d59abcf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScriptureLookup")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScriptureLookup")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
